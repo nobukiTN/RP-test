@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "crate/b_main","crate/kernel","crate/members/*","src-tauri"
+]

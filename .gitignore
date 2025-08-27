@@ -1,0 +1,10 @@
+target
+Cargo.lock
+package.json
+pnpm-lock.yaml
+tauri.conf.json
+gen
+icons
+capabilities
+
+node_modules
